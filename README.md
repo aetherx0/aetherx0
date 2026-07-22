@@ -1,4 +1,5 @@
-## Hi there!...I m Ameya Raut
+## Hi there!✨...
+I am Ameya Raut.
 
 <!--
 **aetherx0/aetherx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
