@@ -25,10 +25,10 @@
 
 ## 🛠️ Tech & Tools
 
-**CAD & Mechanical:** SolidWorks · Onshape 
-**Programming:** Python,html,c programming
-**Data & ML:** Pandas · NumPy 
-**Other:** Git · GitHub ·
+**CAD & Mechanical:** SolidWorks · Onshape <br>
+**Programming:** Python,html,c programming <br>
+**Data & ML:** Pandas · NumPy <br>
+**Other:** Git · GitHub · <br>
 
 
 
